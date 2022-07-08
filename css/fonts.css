@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'comf';
+    src: url('../fonts/Comfortaa-VariableFont_wght.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'cave';
+    src: url('../fonts/Caveat-VariableFont_wght.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
